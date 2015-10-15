@@ -1,0 +1,36 @@
+.bloque{
+	width: 200px;
+	height:200px;
+	position:static;
+	margin:0px;
+	padding:0px;
+}
+.rojo{
+    background-color:red;
+    position:static;
+    left:0px;
+    top:0px;
+}
+.morado{
+	background-color:purple;
+	position:relative;
+	left:200px;
+}
+.amarillo{
+	background-color:yellow;
+	position:relative;
+	left:0px;
+	bottom:0px;
+}
+.grande{
+	height:200px; 
+	width: 200px;
+}
+.mediano{
+	height:100px;
+	width:100px;
+}
+.pequeno{
+	height: 50px;
+	width:50px;
+}
